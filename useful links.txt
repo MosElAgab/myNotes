@@ -7,4 +7,4 @@
 - https://oliverelliott.org/article/computing/tut_unix/#echoandcat
 
 
-- permanent GitHub access token: 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
+- permanent GitHub access token:
