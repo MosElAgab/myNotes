@@ -1,0 +1,10 @@
+
+
+- The Command Line Crash Course
+- https://cglab.ca/~morin/teaching/1405/clcc/book/cli-crash-course.html
+
+- Terminal
+- https://oliverelliott.org/article/computing/tut_unix/#echoandcat
+
+
+- permanent GitHub access token: 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
